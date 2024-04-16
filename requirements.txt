@@ -4,4 +4,5 @@ numpy==1.26.4
 pydub==0.25.1
 Requests==2.31.0
 tensorflow==2.15.0
+uvicorn
 # tensorflow_macos==2.15.0
