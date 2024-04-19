@@ -9,7 +9,7 @@ from urllib.request import urlopen
 import pydub
 import requests
 
-MODEL = tf.keras.models.load_model('model_cnn8281.h5')
+MODEL = tf.keras.models.load_model('cnn_csv_99.h5')
 
 app = FastAPI()
 
